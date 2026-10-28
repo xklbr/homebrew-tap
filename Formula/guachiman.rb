@@ -1,8 +1,8 @@
 class Guachiman < Formula
   desc "Vigila la RAM y CPU desde la barra de menú, con foco en Claude Code"
   homepage "https://github.com/xklbr/guachiman"
-  url "https://github.com/xklbr/guachiman/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "c7245af33c843a85478cd0db37eac2298dbceabafdf7ae0c6ad94ac9c941bdea"
+  url "https://github.com/xklbr/guachiman/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "2d724360c02bd27421d8ed3703ec47e1b246bdc49cd46c44e7c93585fc4eb3a8"
   license "MIT"
 
   depends_on macos: :ventura
